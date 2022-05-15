@@ -1,4 +1,4 @@
-package WorkerRelated;
+package workerRelated;
 
 public class Worker {
     private OnTaskDoneListener callback;

@@ -1,4 +1,4 @@
-package WorkerRelated;
+package workerRelated;
 
 @FunctionalInterface
 public interface OnTaskErrorListener {
